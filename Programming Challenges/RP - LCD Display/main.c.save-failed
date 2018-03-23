@@ -1,0 +1,79 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void print_number(char number,int size)
+{
+    char op;
+
+    switch (op)
+    {
+    case '0':
+
+        break;
+    case '1':
+        break;
+    case '2':
+        break;
+    case '3':
+        break;
+    case '4':
+        break;
+    case '5':
+        break;
+    case '6':
+        break;
+    case '7':
+        break;
+    case '8':
+        break;
+    case '9':
+        break;
+    }
+}
+void print_num()
+{
+
+}
+
+
+
+int main()
+{
+    /*int s, rows, col, i, j,;
+    char n[8];
+
+    while(scanf("%d %s", &s, &n)&& s!=0 && strcmp(n,"0")!=0)
+    {
+        rows=3+2*s;
+        col+=2+s;
+
+
+    }*/
+    int i,j, s=4,m, n, mod=1;
+        mod+=s;
+        m=3+2*s;
+        n=2+s;
+
+       for (i=0;i<m ;i++ )
+       {
+            //printf("\n");
+            for (j=0;j<n ;j++ )
+            {
+                /*if(i%mod==0&&j%mod!=0)
+                    printf("-");
+                else if(i%mod!=0&&j%mod==0)
+                    printf("%c", '|', ' ');
+                else
+                //if(j!=n-1)
+                    printf(" ");*/
+                 //if(i%mod!=0&&j%mod==0&&j!=0)
+                    printf("%c", i%mod!=0&&j%mod==0&&j!=0?'!':'');
+                /*else
+                    printf(" ");*/
+            }
+             printf("\n");
+       }
+
+    return 0;
+}

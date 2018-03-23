@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1458531460 source:d:\usuario\marcel\documents\codeblocksprojects\lcd display\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1458913279 source:d:\usuario\marcel\documents\faculdade\10º semestre\resolução de problemas\lcd display\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1458878162 source:d:\usuario\marcel\documents\faculdade\10º semestre\resolução de problemas\lcd display\aux_.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

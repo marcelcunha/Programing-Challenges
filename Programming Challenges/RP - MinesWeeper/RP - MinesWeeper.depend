@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458345038 source:d:\usuario\marcel\documents\codeblocksprojects\rp - minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
